@@ -1,6 +1,5 @@
 ## Fun7 Service
-
-Fun7 Service is a Spring Boot application that provides services related to checking user service statuses.
+Fun7 Service is a RESTful Spring Boot API that provides services related to checking user service statuses.
 
 ## Getting Started
 
